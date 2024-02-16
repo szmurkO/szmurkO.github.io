@@ -1,0 +1,38 @@
+{
+    "name": "Playlista do gaszenia Chanuki, zadyma fhuj!",
+    "albumCover": "/images/albumCovers/korn.png",
+    "releaseYear": "ZEG",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Korn - Freak on a Leash",
+            "path": "/songs/Freak on a Leash.mp3"
+        }, 
+        {
+            "id": 2,
+            "name": "Rammstein - Rammstein",
+            "path": "/songs/Rammstein - Rammstein.flac"
+        },
+        {
+            "id": 3,
+            "name": "Rammstein - Tier",
+            "path": "/songs/03 - Tier.flac"
+        },
+        {
+            "id": 4,
+            "name": "Rammstein - Spiel Mit Mir",
+            "path": "/songs/07 - Spiel mit mir.flac"
+        },
+        {
+            "id": 5,
+            "name": "Rammstein - Alter Mann",
+            "path": "/songs/09 - Alter Mann.flac"
+        },
+        {
+            "id": 6,
+            "name": "Rammstein - Donaukinder",
+            "path": "/songs/13 - Donaukinder.flac"
+        }
+    ]
+}
+
